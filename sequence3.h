@@ -68,7 +68,6 @@
 #define MAIN_SAVITCH_SEQUENCE3_H
 #include <cstdlib>  // Provides size_t
 #include "node1.h"  // Provides node class
-
 namespace main_savitch_5
 {
     class sequence
