@@ -46,7 +46,7 @@
 //     Precondition: is_item returns true.
 //     Postcondition: The current item has been removed from the sequence, and
 //     the item after this (if there is one) is now the new current item.
-//
+/
 // CONSTANT MEMBER FUNCTIONS for the sequence class:
 //   size_type size( ) const
 //     Postcondition: The return value is the number of items in the sequence.
